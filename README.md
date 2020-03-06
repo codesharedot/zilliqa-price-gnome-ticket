@@ -1,5 +1,8 @@
-# zilliqa price gnome ticket 
+# zilliqa gnome price ticker
 
-Gnome 3 desktop ticker for zilliqa price with Python and argos. Rename to zilliqa.1r.60s.py and put in ~/.config/argos
+Get zilliqa price in Python [https://pythonbasics.org](https://pythonbasics.org).
+See [https://codesharedot.github.io/zilliqa-price-gnome-ticket/](https://codesharedot.github.io/zilliqa-price-gnome-ticket/)
 
-https://pythonbasics.org
+zilliqa price ticker for Gnome desktop. Gets the price with Python and argos.
+
+Rename to zilliqa.1r60s.py and put in ~/.config/argos
